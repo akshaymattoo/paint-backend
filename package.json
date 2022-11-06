@@ -5,7 +5,8 @@
     "socket.io": "^4.5.3"
   },
   "scripts": {
-    "server": "nodemon index.js"
+    "server": "node index.js",
+    "dev":"nodemon index.js"
   },
   "name": "server",
   "version": "1.0.0",
