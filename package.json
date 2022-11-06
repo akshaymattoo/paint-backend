@@ -6,7 +6,6 @@
   },
   "scripts": {
     "server": "node index.js",
-    "dev":"nodemon index.js"
   },
   "name": "server",
   "version": "1.0.0",
